@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jren2/jren2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @jren2
+👀 I’m interested in developing new skills and working on fun projects!
+🌱 I’m currently learning python, c++, and typescript
+💬 Learn more about me at jason-ren.web.app
+📫 React me at jren2@seas.upenn.edu
