@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m @jren2  
 👀 I’m interested in developing new skills and working on fun projects!  
-🌱 I’m currently learning c++ and Go
+🌱 I’m currently learning c++ and Go  
 💬 Learn more about me at jason-ren.com  
 📫 Reach me at jren2@seas.upenn.edu  
