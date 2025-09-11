@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @jren2  
-👀 I’m interested in developing new skills and working on fun projects!  
-🌱 I’m currently learning c++ and Go  
-💬 Learn more about me at jason-ren.com  
-📫 Reach me at jren2@seas.upenn.edu  
+👀 I’m interested in fullstack dev and distributed systems as a tool to solve challenging problems!
+🌱 I’m currently learning C++ and Go
+💬 Learn more about me at https://jasonren.dev/
+📫 Reach me at jasoncren22@gmail.com
